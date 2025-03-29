@@ -14,16 +14,12 @@ A skilled and results-driven Android Developer with a strong background in app d
 ## Hobbies & Interests
 
 - Hiking & Backpacking
-
 - Welding & Metal Fabrication
-
 - Finance & Economics
-
 - Board Game Design
-
 - Gardening
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloImKevo&show_icons=true)](https://github.com/HelloImKevo/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloImKevo&show_icons=true&hide_rank=true&theme=gruvbox)](https://github.com/HelloImKevo/github-readme-stats)
 
 
 ## Languages & Tools
@@ -38,7 +34,7 @@ A skilled and results-driven Android Developer with a strong background in app d
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original-woodmark.svg" alt="csharp" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="godot" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
@@ -51,6 +47,9 @@ A skilled and results-driven Android Developer with a strong background in app d
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="java" width="40" height="40"/>
