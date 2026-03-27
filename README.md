@@ -19,10 +19,6 @@ A skilled and results-driven Android Developer with a strong background in app d
 - Board Game Design
 - Gardening
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloImKevo&show_icons=true&hide_rank=true&theme=gruvbox)](https://github.com/HelloImKevo/github-readme-stats)
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloImKevo&show_icons=true&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HelloImKevo&theme=dark)](https://git.io/streak-stats)
 
 ## Languages & Tools
