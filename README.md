@@ -23,6 +23,8 @@ A skilled and results-driven Android Developer with a strong background in app d
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloImKevo&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HelloImKevo&theme=dark)](https://git.io/streak-stats)
+
 ## Languages & Tools
 
 <h3 align="left">Languages and Tools:</h3>
